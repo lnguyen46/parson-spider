@@ -8,7 +8,7 @@ There are more than 3000 colleges in the USA but only 787 colleges have financia
 I build this tool to collect data that help international students quick search the average aid they can receive from a particular college.
 
 ## How to use
-Make sure you have installed [Node](https://nodejs.org/en/) on your computer.
+Make sure that you have installed [Node](https://nodejs.org/en/) on your computer.
 
 `cd ~`
 
