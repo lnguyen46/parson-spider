@@ -1,0 +1,218 @@
+[
+  {
+    "address": "Anderson, IN",
+    "average_aid_award": "--",
+    "name": "Anderson University 1840",
+    "tuition_and_fees": "$28,650"
+  },
+  {
+    "address": "Anderson, SC",
+    "average_aid_award": "--",
+    "name": "Anderson University 4013",
+    "tuition_and_fees": "$25,880"
+  },
+  {
+    "address": "Grand Rapids, MI",
+    "average_aid_award": "$17,899",
+    "name": "Aquinas College 1842",
+    "tuition_and_fees": "$30,062"
+  },
+  {
+    "address": "Nashville, TN",
+    "average_aid_award": "--",
+    "name": "Aquinas College 2962",
+    "tuition_and_fees": "$21,950"
+  },
+  {
+    "address": "Bethany, WV",
+    "average_aid_award": "--",
+    "name": "Bethany College 4029",
+    "tuition_and_fees": "$27,438"
+  },
+  {
+    "address": "Lindsborg, KS",
+    "average_aid_award": "--",
+    "name": "Bethany College 570",
+    "tuition_and_fees": "$26,660"
+  },
+  {
+    "address": "Mishawaka, IN",
+    "average_aid_award": "$13,924",
+    "name": "Bethel College 1566",
+    "tuition_and_fees": "$27,390"
+  },
+  {
+    "address": "North Newton, KS",
+    "average_aid_award": "$17,202",
+    "name": "Bethel College 2635",
+    "tuition_and_fees": "$26,680"
+  },
+  {
+    "address": "St. Paul, MN",
+    "average_aid_award": "$20,219",
+    "name": "Bethel University 497",
+    "tuition_and_fees": "$35,160"
+  },
+  {
+    "address": "McKenzie, TN",
+    "average_aid_award": "--",
+    "name": "Bethel University 1910",
+    "tuition_and_fees": "$15,764"
+  },
+  {
+    "address": "Columbia, SC",
+    "average_aid_award": "$15,482",
+    "name": "Columbia College 2384",
+    "tuition_and_fees": "$28,900"
+  },
+  {
+    "address": "Columbia, MO",
+    "average_aid_award": "--",
+    "name": "Columbia College 3060",
+    "tuition_and_fees": "$20,936"
+  },
+  {
+    "address": "Ann Arbor, MI",
+    "average_aid_award": "--",
+    "name": "Concordia University 4452",
+    "tuition_and_fees": "$27,710"
+  },
+  {
+    "address": "Seward, NE",
+    "average_aid_award": "--",
+    "name": "Concordia University Nebraska",
+    "tuition_and_fees": "$28,480"
+  },
+  {
+    "address": "Boston, MA",
+    "average_aid_award": "$6,017",
+    "name": "Emmanuel College 3307",
+    "tuition_and_fees": "$37,540"
+  },
+  {
+    "address": "Franklin Springs, GA",
+    "average_aid_award": "--",
+    "name": "Emmanuel College 536",
+    "tuition_and_fees": "$19,330"
+  },
+  {
+    "address": "Lincoln University, PA",
+    "average_aid_award": "--",
+    "name": "Lincoln University 3685",
+    "tuition_and_fees": "$15,582"
+  },
+  {
+    "address": "Jefferson City, MO",
+    "average_aid_award": "$19,182",
+    "name": "Lincoln University 2634",
+    "tuition_and_fees": "$13,432"
+  },
+  {
+    "address": "Oakland, CA",
+    "average_aid_award": "--",
+    "name": "Lincoln University 701",
+    "tuition_and_fees": "$13,110"
+  },
+  {
+    "address": "Indianapolis, IN",
+    "average_aid_award": "--",
+    "name": "Marian University 4337",
+    "tuition_and_fees": "$31,500"
+  },
+  {
+    "address": "Fond du Lac, WI",
+    "average_aid_award": "$9,809",
+    "name": "Marian University 4341",
+    "tuition_and_fees": "$28,380"
+  },
+  {
+    "address": "Annapolis, MD",
+    "average_aid_award": "$35,855",
+    "name": "St Johns College Annapolis",
+    "tuition_and_fees": "$50,228"
+  },
+  {
+    "address": "Santa Fe, NM",
+    "average_aid_award": "$39,491",
+    "name": "St Johns College Santa Fe",
+    "tuition_and_fees": "$50,898"
+  },
+  {
+    "address": "Queens, NY",
+    "average_aid_award": "$23,092",
+    "name": "St Johns University Queens",
+    "tuition_and_fees": "$39,460"
+  },
+  {
+    "address": "Collegeville, MN",
+    "average_aid_award": "$22,099",
+    "name": "St Johns University Collegeville",
+    "tuition_and_fees": "$41,732"
+  },
+  {
+    "address": "Sterling, KS",
+    "average_aid_award": "$15,024",
+    "name": "Sterling College 415",
+    "tuition_and_fees": "$24,250"
+  },
+  {
+    "address": "Craftsbury Common, VT",
+    "average_aid_award": "--",
+    "name": "Sterling College 1496",
+    "tuition_and_fees": "$36,577"
+  },
+  {
+    "address": "Schenectady, NY",
+    "average_aid_award": "$43,067",
+    "name": "Union College 1459",
+    "tuition_and_fees": "$51,696"
+  },
+  {
+    "address": "Lincoln, NE",
+    "average_aid_award": "$6,722",
+    "name": "Union College",
+    "tuition_and_fees": "$22,538"
+  },
+  {
+    "address": "Barbourville, KY",
+    "average_aid_award": "$15,589",
+    "name": "Union College 1707",
+    "tuition_and_fees": "$25,135"
+  },
+  {
+    "address": "Saint Paul, MN",
+    "average_aid_award": "$28,198",
+    "name": "University of St Thomas 2471",
+    "tuition_and_fees": "$39,594"
+  },
+  {
+    "address": "Houston, TX",
+    "average_aid_award": "$12,933",
+    "name": "University of St Thomas 2318",
+    "tuition_and_fees": "$32,100"
+  },
+  {
+    "address": "Fulton, MO",
+    "average_aid_award": "$13,712",
+    "name": "Westminster College 2526",
+    "tuition_and_fees": "$24,540"
+  },
+  {
+    "address": "Salt Lake City, UT",
+    "average_aid_award": "$17,438",
+    "name": "Westminster College 4054",
+    "tuition_and_fees": "$32,104"
+  },
+  {
+    "address": "Wheaton, IL",
+    "average_aid_award": "$22,358",
+    "name": "Wheaton College 1353",
+    "tuition_and_fees": "$34,050"
+  },
+  {
+    "address": "Norton, MA",
+    "average_aid_award": "$20,130",
+    "name": "Wheaton College 4115",
+    "tuition_and_fees": "$49,012"
+  }
+]

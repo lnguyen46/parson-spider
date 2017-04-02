@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Depauw University",
+    "average_aid_award": "$16,742"
+  },
+  {
+    "name": "Rutgers The State University of New Jersey: Camden Regional Campus",
+    "average_aid_award": "$0"
+  },
+  {
+    "name": "Saint Josephs College",
+    "average_aid_award": "$11,175"
+  },
+  {
+    "name": "Stephen Austin State University",
+    "average_aid_award": "$1,250"
+  },
+  {
+    "name": "Adelphi University",
+    "average_aid_award": "$18,723"
+  },
+  {
+    "name": "Barton College",
+    "average_aid_award": "$24,279"
+  },
+  {
+    "name": "Benedictine University",
+    "average_aid_award": "$8,688"
+  },
+  {
+    "name": "Biola University",
+    "average_aid_award": "$10,112"
+  },
+  {
+    "name": "Capital University",
+    "average_aid_award": "$17,227"
+  },
+  {
+    "name": "Carroll College",
+    "average_aid_award": "$24,543"
+  },
+  {
+    "name": "Central Washington University",
+    "average_aid_award": "$3,610"
+  },
+  {
+    "name": "Cleveland State University",
+    "average_aid_award": "$11,877"
+  },
+  {
+    "name": "College of the Atlantic",
+    "average_aid_award": "$42,173"
+  },
+  {
+    "name": "College of Idaho",
+    "average_aid_award": "$15,582"
+  },
+  {
+    "name": "Duke University",
+    "average_aid_award": "$55,213"
+  },
+  {
+    "name": "Eckerd College",
+    "average_aid_award": "$17,861"
+  },
+  {
+    "name": "George Fox University",
+    "average_aid_award": "$9,802"
+  },
+  {
+    "name": "George Washington University",
+    "average_aid_award": "$17,742"
+  },
+  {
+    "name": "Green Mountain College",
+    "average_aid_award": "$16,000"
+  },
+  {
+    "name": "Gustavus Adolphus College",
+    "average_aid_award": "$29,527"
+  },
+  {
+    "name": "Hampshire College",
+    "average_aid_award": "$29,091"
+  },
+  {
+    "name": "Harvard College",
+    "average_aid_award": "$53,409"
+  },
+  {
+    "name": "Hope College",
+    "average_aid_award": "$14,115"
+  },
+  {
+    "name": "Jacksonville University",
+    "average_aid_award": "$23,012"
+  },
+  {
+    "name": "James Madison University",
+    "average_aid_award": "$18,931"
+  },
+  {
+    "name": "John Carroll University",
+    "average_aid_award": "$26,245"
+  },
+  {
+    "name": "Kenyon College",
+    "average_aid_award": "$47,796"
+  },
+  {
+    "name": "Lawrence Technological University",
+    "average_aid_award": "$13,843"
+  },
+  {
+    "name": "Le Moyne College",
+    "average_aid_award": "$24,943"
+  },
+  {
+    "name": "Lenoir-Rhyne University",
+    "average_aid_award": "$26,886"
+  },
+  {
+    "name": "Linfield College",
+    "average_aid_award": "$24,197"
+  },
+  {
+    "name": "Loyola University New Orleans",
+    "average_aid_award": "$9,990"
+  },
+  {
+    "name": "Luther College",
+    "average_aid_award": "$31,364"
+  },
+  {
+    "name": "Lycoming College",
+    "average_aid_award": "$24,790"
+  },
+  {
+    "name": "Maryville College",
+    "average_aid_award": "$15,946"
+  },
+  {
+    "name": "Messiah College",
+    "average_aid_award": "$21,743"
+  },
+  {
+    "name": "Nichols College",
+    "average_aid_award": "$7,918"
+  },
+  {
+    "name": "Oklahoma Christian University",
+    "average_aid_award": "$10,229"
+  },
+  {
+    "name": "Point Loma Nazarene University",
+    "average_aid_award": "$21,057"
+  },
+  {
+    "name": "Pomona College",
+    "average_aid_award": "$48,257"
+  },
+  {
+    "name": "Portland State University",
+    "average_aid_award": "$5,182"
+  },
+  {
+    "name": "Prescott College",
+    "average_aid_award": "$4,000"
+  },
+  {
+    "name": "Reed College",
+    "average_aid_award": "$51,600"
+  },
+  {
+    "name": "Seattle Pacific University",
+    "average_aid_award": "$15,287"
+  },
+  {
+    "name": "Smith College",
+    "average_aid_award": "$53,498"
+  },
+  {
+    "name": "Soka University of America",
+    "average_aid_award": "$37,332"
+  },
+  {
+    "name": "Southern Oregon University",
+    "average_aid_award": "$12,331"
+  },
+  {
+    "name": "Southern Utah University",
+    "average_aid_award": "$7,627"
+  },
+  {
+    "name": "St. Ambrose University",
+    "average_aid_award": "$13,720"
+  },
+  {
+    "name": "St. Norbert College",
+    "average_aid_award": "$19,257"
+  },
+  {
+    "name": "Stanford University",
+    "average_aid_award": "$55,362"
+  },
+  {
+    "name": "Trinity College",
+    "average_aid_award": "$54,788"
+  },
+  {
+    "name": "Trinity International University",
+    "average_aid_award": "$8,879"
+  },
+  {
+    "name": "University of California: Davis",
+    "average_aid_award": "$7,177"
+  },
+  {
+    "name": "University of California: Irvine",
+    "average_aid_award": "$10,980"
+  },
+  {
+    "name": "University of California: Los Angeles",
+    "average_aid_award": "$22,145"
+  },
+  {
+    "name": "University of California: Merced",
+    "average_aid_award": "$32,126"
+  },
+  {
+    "name": "University of California: Riverside",
+    "average_aid_award": "$10,827"
+  },
+  {
+    "name": "University of California: Santa Cruz",
+    "average_aid_award": "$4,455"
+  },
+  {
+    "name": "University of Houston-Downtown",
+    "average_aid_award": "$1,130"
+  },
+  {
+    "name": "University of Kansas",
+    "average_aid_award": "$11,640"
+  },
+  {
+    "name": "University of Maryland: Baltimore",
+    "average_aid_award": "$17,143"
+  },
+  {
+    "name": "University of Montana",
+    "average_aid_award": "$6,834"
+  },
+  {
+    "name": "University of Nebraska - Omaha",
+    "average_aid_award": "$2,531"
+  },
+  {
+    "name": "University of Northern Colorado",
+    "average_aid_award": "$2,703"
+  },
+  {
+    "name": "University of Oregon",
+    "average_aid_award": "$9,647"
+  },
+  {
+    "name": "University of Pikeville",
+    "average_aid_award": "$9,589"
+  },
+  {
+    "name": "University of Scranton",
+    "average_aid_award": "$24,624"
+  },
+  {
+    "name": "University of South Carolina: Columbia",
+    "average_aid_award": "$7,472"
+  },
+  {
+    "name": "University of Texas at Arlington",
+    "average_aid_award": "$4,608"
+  },
+  {
+    "name": "University of Southern Maine",
+    "average_aid_award": "$5,448"
+  },
+  {
+    "name": "University of Texas at Tyler",
+    "average_aid_award": "$2,714"
+  },
+  {
+    "name": "University of Wyoming",
+    "average_aid_award": "$9,510"
+  },
+  {
+    "name": "Ursuline College",
+    "average_aid_award": "$27,186"
+  },
+  {
+    "name": "Utica College",
+    "average_aid_award": "$22,775"
+  },
+  {
+    "name": "Wentworth Institute of Technology",
+    "average_aid_award": "$9,019"
+  },
+  {
+    "name": "West Virginia University",
+    "average_aid_award": "$6,868"
+  },
+  {
+    "name": "Willamette University",
+    "average_aid_award": "$18,884"
+  },
+  {
+    "name": "Winthrop University",
+    "average_aid_award": "$15,175"
+  },
+  {
+    "name": "Wright State University",
+    "average_aid_award": "$5,056"
+  },
+  {
+    "name": "Xavier University of Louisiana",
+    "average_aid_award": "$16,308"
+  },
+  {
+    "name": "Yeshiva University",
+    "average_aid_award": "$30,926"
+  }
+]

@@ -1,0 +1,11 @@
+# Apple file system
+.DS_Store
+
+# Helper file
+.jshintrc
+.tern-port
+*.txt
+
+# node modules
+node_modules/
+

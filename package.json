@@ -1,0 +1,20 @@
+{
+  "name": "scrape_college_board",
+  "version": "1.0.0",
+  "description": "Browser automation and scrape data from College Board",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Web",
+    "automation"
+  ],
+  "author": "Long Nguyen",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "nightmare": "^2.8.1",
+    "vo": "^4.0.2"
+  }
+}

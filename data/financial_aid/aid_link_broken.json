@@ -1,0 +1,530 @@
+[
+  {
+    "address": "Wilmore, KY",
+    "average_aid_award": "--",
+    "name": "Asbury College",
+    "tuition_and_fees": "$28,829"
+  },
+  {
+    "address": "Rock Island, IL",
+    "average_aid_award": "--",
+    "name": "Augustana College 3141",
+    "tuition_and_fees": "$39,621"
+  },
+  {
+    "address": "Great Barrington, MA",
+    "average_aid_award": "--",
+    "name": "Bard College at Simons Rock",
+    "tuition_and_fees": "$52,385"
+  },
+  {
+    "address": "Longmeadow, MA",
+    "average_aid_award": "$15,752",
+    "name": "Bay Path College",
+    "tuition_and_fees": "$32,739"
+  },
+  {
+    "address": "Lincoln, NE",
+    "average_aid_award": "--",
+    "name": "Bryan College of Health Sciences",
+    "tuition_and_fees": "$16,890"
+  },
+  {
+    "address": "Anaheim, CA",
+    "average_aid_award": "--",
+    "name": "California University of Managementand Sciences",
+    "tuition_and_fees": "$9,570"
+  },
+  {
+    "address": "Claremont, CA",
+    "average_aid_award": "$33,406",
+    "name": "Claremont Mc Kenna College",
+    "tuition_and_fees": "$50,945"
+  },
+  {
+    "address": "Bronxville, NY",
+    "average_aid_award": "--",
+    "name": "Concordia College 1340",
+    "tuition_and_fees": "$30,550"
+  },
+  {
+    "address": "Buffalo, NY",
+    "average_aid_award": "--",
+    "name": "DYouville College",
+    "tuition_and_fees": "$25,210"
+  },
+  {
+    "address": "Elkins, WV",
+    "average_aid_award": "--",
+    "name": "Davisand Elkins College",
+    "tuition_and_fees": "$28,842"
+  },
+  {
+    "address": "Johnson City, NY",
+    "average_aid_award": "--",
+    "name": "Davis College 4339",
+    "tuition_and_fees": "$16,500"
+  },
+  {
+    "address": "Greencastle, IN",
+    "average_aid_award": "--",
+    "name": "De Pauw University",
+    "tuition_and_fees": "$46,448"
+  },
+  {
+    "address": "Center Valley, PA",
+    "average_aid_award": "$10,750",
+    "name": "De Sales University",
+    "tuition_and_fees": "$34,850"
+  },
+  {
+    "address": "Needham, MA",
+    "average_aid_award": "$24,300",
+    "name": "Franklin Olin College of Engineering",
+    "tuition_and_fees": "$49,986"
+  },
+  {
+    "address": "Cincinnati, OH",
+    "average_aid_award": "--",
+    "name": "Gods Bible School and College",
+    "tuition_and_fees": "$7,040"
+  },
+  {
+    "address": "Wenham, MA",
+    "average_aid_award": "--",
+    "name": "Gordon College 1400",
+    "tuition_and_fees": "$36,060"
+  },
+  {
+    "address": "Hannibal, MO",
+    "average_aid_award": "--",
+    "name": "Hannibal-La Grange University",
+    "tuition_and_fees": "$21,710"
+  },
+  {
+    "address": "Pleasant Hill, CA",
+    "average_aid_award": "--",
+    "name": "John Kennedy University",
+    "tuition_and_fees": "$17,469"
+  },
+  {
+    "address": "Charlotte, NC",
+    "average_aid_award": "--",
+    "name": "Johnson Smith University",
+    "tuition_and_fees": "$18,236"
+  },
+  {
+    "address": "Wilkes-Barre, PA",
+    "average_aid_award": "$13,667",
+    "name": "kings-college-wilkes-barre",
+    "tuition_and_fees": "$34,720"
+  },
+  {
+    "address": "London, United Kingdom",
+    "average_aid_award": "--",
+    "name": "Kings College London",
+    "tuition_and_fees": "$24,165"
+  },
+  {
+    "address": "LaGrange, GA",
+    "average_aid_award": "--",
+    "name": "La Grange College",
+    "tuition_and_fees": "$28,460"
+  },
+  {
+    "address": "Sheboygan, WI",
+    "average_aid_award": "--",
+    "name": "Lakeland College",
+    "tuition_and_fees": "$26,560"
+  },
+  {
+    "address": "Banner Elk, NC",
+    "average_aid_award": "$19,837",
+    "name": "Lees-Mc Rae College",
+    "tuition_and_fees": "$24,878"
+  },
+  {
+    "address": "Memphis, TN",
+    "average_aid_award": "--",
+    "name": "Le Moyne-Owen College",
+    "tuition_and_fees": "$10,880"
+  },
+  {
+    "address": "Longview, TX",
+    "average_aid_award": "$10,527",
+    "name": "Le Tourneau University",
+    "tuition_and_fees": "$28,480"
+  },
+  {
+    "address": "Jacksonville, IL",
+    "average_aid_award": "--",
+    "name": "Mac Murray College",
+    "tuition_and_fees": "$25,110"
+  },
+  {
+    "address": "Staunton, VA",
+    "average_aid_award": "--",
+    "name": "Mary Baldwin College",
+    "tuition_and_fees": "$30,635"
+  },
+  {
+    "address": "Westminster, MD",
+    "average_aid_award": "$31,825",
+    "name": "Mc Daniel College",
+    "tuition_and_fees": "$40,580"
+  },
+  {
+    "address": "Montreal, Canada",
+    "average_aid_award": "--",
+    "name": "Mc Gill University",
+    "tuition_and_fees": "--"
+  },
+  {
+    "address": "Lebanon, IL",
+    "average_aid_award": "$20,683",
+    "name": "Mc Kendree University",
+    "tuition_and_fees": "$28,740"
+  },
+  {
+    "address": "Abilene, TX",
+    "average_aid_award": "$14,375",
+    "name": "Mc Murry University",
+    "tuition_and_fees": "$26,100"
+  },
+  {
+    "address": "St. Paul, MN",
+    "average_aid_award": "$9,060",
+    "name": "McNally Smith College of Music MN",
+    "tuition_and_fees": "$27,940"
+  },
+  {
+    "address": "Lake Charles, LA",
+    "average_aid_award": "--",
+    "name": "Mc Neese State University",
+    "tuition_and_fees": "$18,399"
+  },
+  {
+    "address": "McPherson, KS",
+    "average_aid_award": "$19,665",
+    "name": "Mc Pherson College",
+    "tuition_and_fees": "$26,498"
+  },
+  {
+    "address": "Olathe, KS",
+    "average_aid_award": "--",
+    "name": "Mid America Nazarene University",
+    "tuition_and_fees": "$27,650"
+  },
+  {
+    "address": "Bozeman, MT",
+    "average_aid_award": "$4,127",
+    "name": "Montana State University Bozeman",
+    "tuition_and_fees": "$23,042"
+  },
+  {
+    "address": "Los Angeles, CA",
+    "average_aid_award": "$14,798",
+    "name": "Mount Saint Marys University",
+    "tuition_and_fees": "$37,722"
+  },
+  {
+    "address": "Emmitsburg, MD",
+    "average_aid_award": "$31,166",
+    "name": "Mount St Marys University",
+    "tuition_and_fees": "$39,000"
+  },
+  {
+    "address": "Orange City, IA",
+    "average_aid_award": "--",
+    "name": "Northwestern College 2591",
+    "tuition_and_fees": "$29,500"
+  },
+  {
+    "address": "Belmont, CA",
+    "average_aid_award": "--",
+    "name": "Notre Damede Namur University",
+    "tuition_and_fees": "$33,418"
+  },
+  {
+    "address": "Ironton, OH",
+    "average_aid_award": "--",
+    "name": "Ohio University: Southern Campusat Ironton",
+    "tuition_and_fees": "$6,718"
+  },
+  {
+    "address": "San Antonio, TX",
+    "average_aid_award": "$19,392",
+    "name": "Our Lady of the Lake Universityof San Antonio",
+    "tuition_and_fees": "$27,140"
+  },
+  {
+    "address": "Paul Smiths, NY",
+    "average_aid_award": "--",
+    "name": "Paul Smiths College",
+    "tuition_and_fees": "$25,100"
+  },
+  {
+    "address": "Battle Creek, MI",
+    "average_aid_award": "--",
+    "name": "Miller College",
+    "tuition_and_fees": "$11,970"
+  },
+  {
+    "address": "Rockford, IL",
+    "average_aid_award": "--",
+    "name": "Rockford College",
+    "tuition_and_fees": "$29,180"
+  },
+  {
+    "address": "Camden, NJ",
+    "average_aid_award": "--",
+    "name": "Rutgers The State University of New Jersey: Camden Regional Campus",
+    "tuition_and_fees": "$29,381"
+  },
+  {
+    "address": "Newark, NJ",
+    "average_aid_award": "$5,488",
+    "name": "Rutgers The State University of New Jersey: Newark Regional Campus",
+    "tuition_and_fees": "$29,480"
+  },
+  {
+    "address": "Raleigh, NC",
+    "average_aid_award": "--",
+    "name": "Saint Augustines University",
+    "tuition_and_fees": "$17,890"
+  },
+  {
+    "address": "Rensselaer, IN",
+    "average_aid_award": "--",
+    "name": "Saint Josephs College",
+    "tuition_and_fees": "$30,080"
+  },
+  {
+    "address": "Standish, ME",
+    "average_aid_award": "--",
+    "name": "Saint Josephs College of Maine",
+    "tuition_and_fees": "$34,800"
+  },
+  {
+    "address": "Philadelphia, PA",
+    "average_aid_award": "--",
+    "name": "Saint Josephs University",
+    "tuition_and_fees": "$43,020"
+  },
+  {
+    "address": "Lacey, WA",
+    "average_aid_award": "$6,699",
+    "name": "Saint Martins University",
+    "tuition_and_fees": "$34,356"
+  },
+  {
+    "address": "Notre Dame, IN",
+    "average_aid_award": "$19,784",
+    "name": "Saint Marys College",
+    "tuition_and_fees": "$40,800"
+  },
+  {
+    "address": "Colchester, VT",
+    "average_aid_award": "$13,018",
+    "name": "Saint Michaels College",
+    "tuition_and_fees": "$41,975"
+  },
+  {
+    "address": "Jersey City, NJ",
+    "average_aid_award": "--",
+    "name": "Saint Peters University",
+    "tuition_and_fees": "$35,192"
+  },
+  {
+    "address": "Manitowoc, WI",
+    "average_aid_award": "--",
+    "name": "Silver Lake College",
+    "tuition_and_fees": "$14,650"
+  },
+  {
+    "address": "Winfield, KS",
+    "average_aid_award": "$7,937",
+    "name": "Southwestern College 2244",
+    "tuition_and_fees": "$27,250"
+  },
+  {
+    "address": "Austin, TX",
+    "average_aid_award": "$19,106",
+    "name": "St Edwards University",
+    "tuition_and_fees": "$40,828"
+  },
+  {
+    "address": "Moraga, CA",
+    "average_aid_award": "$36,892",
+    "name": "St Marys College of California",
+    "tuition_and_fees": "$44,360"
+  },
+  {
+    "address": "Saint Marys City, MD",
+    "average_aid_award": "$4,667",
+    "name": "St Marys College of Maryland",
+    "tuition_and_fees": "$29,340"
+  },
+  {
+    "address": "San Antonio, TX",
+    "average_aid_award": "$26,236",
+    "name": "St Marys University",
+    "tuition_and_fees": "$28,200"
+  },
+  {
+    "address": "Winona, MN",
+    "average_aid_award": "$15,036",
+    "name": "St Marys University of Minnesota",
+    "tuition_and_fees": "$32,575"
+  },
+  {
+    "address": "Nacogdoches, TX",
+    "average_aid_award": "--",
+    "name": "Stephen Austin State University",
+    "tuition_and_fees": "$21,777"
+  },
+  {
+    "address": "Laredo, TX",
+    "average_aid_award": "--",
+    "name": "Texas AM International University",
+    "tuition_and_fees": "$20,879"
+  },
+  {
+    "address": "College Station, TX",
+    "average_aid_award": "$22,976",
+    "name": "Texas AM University",
+    "tuition_and_fees": "$30,208"
+  },
+  {
+    "address": "Commerce, TX",
+    "average_aid_award": "--",
+    "name": "Texas AM University-Commerce",
+    "tuition_and_fees": "$20,138"
+  },
+  {
+    "address": "Corpus Christi, TX",
+    "average_aid_award": "$3,961",
+    "name": "Texas AM University-Corpus Christi",
+    "tuition_and_fees": "$21,193"
+  },
+  {
+    "address": "Kingsville, TX",
+    "average_aid_award": "$3,998",
+    "name": "Texas AM University-Kingsville",
+    "tuition_and_fees": "$21,356"
+  },
+  {
+    "address": "Denton, TX",
+    "average_aid_award": "--",
+    "name": "Texas Womans University",
+    "tuition_and_fees": "$21,010"
+  },
+  {
+    "address": "New York, NY",
+    "average_aid_award": "$19,807",
+    "name": "The Kings College",
+    "tuition_and_fees": "$34,320"
+  },
+  {
+    "address": "Southlake, TX",
+    "average_aid_award": "--",
+    "name": "The Kings University",
+    "tuition_and_fees": "$13,350"
+  },
+  {
+    "address": "Santa Clarita, CA",
+    "average_aid_award": "$18,434",
+    "name": "The Masters College",
+    "tuition_and_fees": "$31,970"
+  },
+  {
+    "address": "Rock Island, IL",
+    "average_aid_award": "--",
+    "name": "Trinity College of Nursing and Health Sciences",
+    "tuition_and_fees": "$23,307"
+  },
+  {
+    "address": "Cleveland, GA",
+    "average_aid_award": "$18,600",
+    "name": "Truett-Mc Connell College",
+    "tuition_and_fees": "$18,510"
+  },
+  {
+    "address": "Boulder, CO",
+    "average_aid_award": "$20,297",
+    "name": "University of Colorado at Boulder",
+    "tuition_and_fees": "$36,711"
+  },
+  {
+    "address": "Denver, CO",
+    "average_aid_award": "$8,140",
+    "name": "University of Colorado at Denver",
+    "tuition_and_fees": "$30,361"
+  },
+  {
+    "address": "New Orleans, LA",
+    "average_aid_award": "--",
+    "name": "our-lady-of-holy-cross-college",
+    "tuition_and_fees": "$14,242"
+  },
+  {
+    "address": "Manchester, NH",
+    "average_aid_award": "--",
+    "name": "University of New Hampshireat Manchester",
+    "tuition_and_fees": "$28,293"
+  },
+  {
+    "address": "Saint Paul, MN",
+    "average_aid_award": "--",
+    "name": "University of Northwestern Saint Paul",
+    "tuition_and_fees": "$29,510"
+  },
+  {
+    "address": "Joliet, IL",
+    "average_aid_award": "$23,870",
+    "name": "University of St. Francis 2768",
+    "tuition_and_fees": "$30,840"
+  },
+  {
+    "address": "Wise, VA",
+    "average_aid_award": "--",
+    "name": "University of Virginias College at Wise",
+    "tuition_and_fees": "$25,617"
+  },
+  {
+    "address": "Chicago, IL",
+    "average_aid_award": "--",
+    "name": "Vander Cook College of Music",
+    "tuition_and_fees": "$27,180"
+  },
+  {
+    "address": "Forest City, IA",
+    "average_aid_award": "$11,143",
+    "name": "Waldorf College",
+    "tuition_and_fees": "$21,260"
+  },
+  {
+    "address": "Canyon, TX",
+    "average_aid_award": "--",
+    "name": "West Texas AM University",
+    "tuition_and_fees": "$21,173"
+  },
+  {
+    "address": "Patchogue, NY",
+    "average_aid_award": "$13,980",
+    "name": "St Josephs College Suffolk Campus",
+    "tuition_and_fees": "$25,124"
+  },
+  {
+    "address": "Brooklyn, NY",
+    "average_aid_award": "--",
+    "name": "St Josephs College",
+    "tuition_and_fees": "$25,114"
+  },
+  {
+    "address": "Kansas City, MO",
+    "average_aid_award": "--",
+    "name": "St Lukes College Kansas City",
+    "tuition_and_fees": "$15,164"
+  }
+]
