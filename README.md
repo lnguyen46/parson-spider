@@ -11,9 +11,13 @@ I build this tool to collect data that help international students quick search 
 Make sure you have installed [Node](https://nodejs.org/en/) on your computer.
 
 `cd ~`
+
 `cd folder-you-want-to-hold-this-repo`
+
 `git clone https://github.com/lnguyen46/parson-spider.git`
+
 `node get_college_names.js`
+
 `node calculate_aid.js`
 
 
